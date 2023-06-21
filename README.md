@@ -3,7 +3,7 @@ Template-cpython-opencv
 
 Purpose:
 ---
-This simple template builds a cpp code with OpenCV and calls the function from Python.
+This simple template builds a `Cpp` code with `OpenCV` and calls the function from `Python`.
 
 Usage:
 ---
