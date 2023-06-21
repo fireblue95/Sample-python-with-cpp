@@ -1,8 +1,9 @@
 Template-cpython-opencv
 ===
 
-This simple template builds a cpp code with OpenCV and calls the function from Python.
+Purpose:
 ---
+This simple template builds a cpp code with OpenCV and calls the function from Python.
 
 Usage:
 ---
